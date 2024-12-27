@@ -2,6 +2,8 @@
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
+**Date:18/10/2024**
+
 **AIM:**
 
 To design a half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming.
@@ -63,7 +65,7 @@ Program to design a half adder and full adder circuit and verify its truth table
 
 Developed by:B.THAVANESH
 
-Register Number:24900957
+Register Number:212224040352
 
 **Half Adder**
 ```
