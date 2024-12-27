@@ -41,7 +41,7 @@ Figure -02 HALF Subtractor
 
 ![image](https://github.com/user-attachments/assets/1ee9b160-1380-4c0c-8c64-e43f73ed3c17)
 
-**Half Subtracor**
+**Half Subtractor**
 
 ![image](https://github.com/user-attachments/assets/102e3898-2892-4eda-ae84-c5ec8ce135af)
 
